@@ -1,0 +1,8 @@
+- name: Charles
+  link: /root
+- name: HowTo
+  link: /root/howto.html
+- name: Blog
+  link: /blog.html
+- name: Bar
+  link: /bar.html
